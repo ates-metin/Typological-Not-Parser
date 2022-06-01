@@ -16,12 +16,15 @@ You need to download/import spacy, benepar, numpy matplotlib, lemminflect
 
 - For Benepar see: https://github.com/nikitakit/self-attentive-parser
 
- if en_core_web_md is not installed:
-
-  (1)	!python -m spacy download 'en_core_web_md'
+ if en_core_web_md is not installed, try;
+	
+  (1)
+  	
+	!python -m spacy download 'en_core_web_md'
 	import en_core_web_md
-
-  (2)	import spacy, benepar      
+  (2)
+        
+	import spacy, benepar      
 	nlp = spacy.load('en_core_web_md')
 
 	from benepar.spacy_plugin import BeneparComponent
