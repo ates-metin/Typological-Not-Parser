@@ -1,0 +1,58 @@
+turkish
+
+çamaşır makinesini almışlar
+pro laundry machine-acc take-pst-pl
+they took the laundry machine
+
+benim mavi kedim kapıyı kırmış
+i-gen blue cat-poss door-acc break-pst
+my blue cat broke the door
+
+benim kedim mavi kapıyı kırıyor
+i-gen cat-poss blue door-acc break-prog
+my cat is breaking the blue door
+
+büyük baloları severim
+pro big ball-pl-acc like-aor-1sg
+i like big balls
+
+esranın kızı üniversiteye gitmiş
+esra-gen daughter-poss university-dat go-pst
+esra's daughter went to a university
+
+esranın kızı iyi üniversiteye gitmiş
+esra-gen daughter-poss good university-dat go-pst
+esra's daughter went to a good university
+
+arda dolaptaki pirinci yedi
+arda fridge-loc-rel rice-acc eat-pst
+arda ate the rice in the fridge
+
+onlar sol kolumu sakatladılar
+they left arm-poss-acc injure-pst-pl
+they injured my left arm
+
+şimdi bunu yiyorum
+pro now this-acc eat-prog-1sg
+i am eating this now
+
+Varmış olmam beni düşünmeye sevk etti
+arrive-pst be-pst me-acc contemplate-nmlz-dat make-pst
+The fact that I arrived made me contemplate
+
+Ben ona bu renkli kolyemi takacağım'
+i him-dat this colorful necklace-poss put.on-fut-1sg
+i will put my colorful necklace on him'
+
+Beni gerçekten sevdin mi?
+pro me-acc truly love-pst-2sg q
+did you love me truly?'
+
+Gördüm seni koşarken
+pro see-pst-1sg you-acc run-ger
+i saw you running
+
+Aldım kırmızı elbiseyi
+pro buy-pst red dress-poss-2sg-acc
+i bought the red dress
+
